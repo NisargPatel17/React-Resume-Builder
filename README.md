@@ -15,7 +15,7 @@ Welcome to our Resume Builder Website! Our website allows users to easily create
 1. Clone this repository to your local machine
 
 ```bash
-git clone https://github.com/imhardikdesai/Resume-Builder.git
+git clone https://github.com/NisargPatel17/React-Resume-Builder
 ```
 
 2. Navigate to the project directory

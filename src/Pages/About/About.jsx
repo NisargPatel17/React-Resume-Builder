@@ -91,7 +91,7 @@ export default function About() {
                 <title>About Us - Resume Builder</title>
                 <meta name="description" content="Learn more about the Resume Builder website and its mission to provide easy-to-use tools for creating professional resumes." />
                 <meta name="keywords" content="resume builder, about us, mission, professional resumes, tools" />
-                <meta name="author" content="Hardik Desai" />
+                <meta name="author" content="Nisarg Patel" />
                 <meta name="robots" content="index, follow" />
                 <meta property="og:title" content="About Us - Resume Builder" />
                 <meta property="og:description" content="Learn more about the Resume Builder website and its mission to provide easy-to-use tools for creating professional resumes." />
